@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+E:\Projects\VS2012\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+E:\Projects\VS2012\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+E:\Projects\VS2012\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

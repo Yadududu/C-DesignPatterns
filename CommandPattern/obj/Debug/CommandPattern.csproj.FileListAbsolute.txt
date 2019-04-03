@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.exe
+E:\Projects\VS2012\DesignPatterns\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\Projects\VS2012\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.exe
+E:\Projects\VS2012\DesignPatterns\CommandPattern\obj\Debug\CommandPattern.pdb

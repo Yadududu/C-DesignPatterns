@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+E:\Projects\VS2012\DesignPatterns\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+E:\Projects\VS2012\DesignPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+E:\Projects\VS2012\DesignPatterns\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

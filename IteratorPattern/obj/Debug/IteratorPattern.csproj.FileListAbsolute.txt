@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.exe
+E:\Projects\VS2012\DesignPatterns\IteratorPattern\bin\Debug\IteratorPattern.pdb
+E:\Projects\VS2012\DesignPatterns\IteratorPattern\obj\Debug\IteratorPattern.exe
+E:\Projects\VS2012\DesignPatterns\IteratorPattern\obj\Debug\IteratorPattern.pdb

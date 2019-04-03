@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.exe.config
+E:\Projects\VS2012\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.exe
+E:\Projects\VS2012\DesignPatterns\BridgePattern\bin\Debug\BridgePattern.pdb
+E:\Projects\VS2012\DesignPatterns\BridgePattern\obj\Debug\BridgePattern.exe
+E:\Projects\VS2012\DesignPatterns\BridgePattern\obj\Debug\BridgePattern.pdb

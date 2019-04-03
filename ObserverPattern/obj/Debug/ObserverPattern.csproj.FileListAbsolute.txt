@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\Projects\VS2012\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\Projects\VS2012\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+E:\Projects\VS2012\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb

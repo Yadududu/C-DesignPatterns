@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+E:\Projects\VS2012\DesignPatterns\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+E:\Projects\VS2012\DesignPatterns\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+E:\Projects\VS2012\DesignPatterns\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb

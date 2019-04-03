@@ -1,0 +1,6 @@
+E:\Projects\VS2012\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+E:\Projects\VS2012\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+E:\Projects\VS2012\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+E:\Projects\VS2012\DesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+E:\Projects\VS2012\DesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

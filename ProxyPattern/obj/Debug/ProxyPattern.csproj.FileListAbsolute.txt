@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+E:\Projects\VS2012\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\Projects\VS2012\DesignPatterns\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\Projects\VS2012\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.exe
+E:\Projects\VS2012\DesignPatterns\ProxyPattern\obj\Debug\ProxyPattern.pdb

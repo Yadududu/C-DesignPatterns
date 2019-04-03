@@ -1,0 +1,5 @@
+E:\Projects\VS2012\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.exe.config
+E:\Projects\VS2012\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.exe
+E:\Projects\VS2012\DesignPatterns\CompositePattern\bin\Debug\CompositePattern.pdb
+E:\Projects\VS2012\DesignPatterns\CompositePattern\obj\Debug\CompositePattern.exe
+E:\Projects\VS2012\DesignPatterns\CompositePattern\obj\Debug\CompositePattern.pdb
