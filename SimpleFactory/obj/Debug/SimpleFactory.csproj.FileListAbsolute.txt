@@ -1,0 +1,6 @@
+E:\Projects\VS2012\C-DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+E:\Projects\VS2012\C-DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.exe
+E:\Projects\VS2012\C-DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.pdb
+E:\Projects\VS2012\C-DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+E:\Projects\VS2012\C-DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.exe
+E:\Projects\VS2012\C-DesignPatterns\SimpleFactory\obj\Debug\SimpleFactory.pdb

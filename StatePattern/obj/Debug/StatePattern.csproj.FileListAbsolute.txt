@@ -3,3 +3,6 @@ E:\Projects\VS2012\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe
 E:\Projects\VS2012\DesignPatterns\StatePattern\bin\Debug\StatePattern.pdb
 E:\Projects\VS2012\DesignPatterns\StatePattern\obj\Debug\StatePattern.exe
 E:\Projects\VS2012\DesignPatterns\StatePattern\obj\Debug\StatePattern.pdb
+E:\Projects\VS2012\C-DesignPatterns\StatePattern\bin\Debug\StatePattern.exe.config
+E:\Projects\VS2012\C-DesignPatterns\StatePattern\obj\Debug\StatePattern.exe
+E:\Projects\VS2012\C-DesignPatterns\StatePattern\obj\Debug\StatePattern.pdb
